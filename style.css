@@ -1,0 +1,65 @@
+.navbar {
+    background-color: rgb(160, 9, 127);
+padding: 15px;
+display: flex;
+justify-content: space-evenly;
+}
+
+
+body {
+    margin: 0px;
+}
+
+
+.navbar a {
+    color: rgba(0, 0, 0, 0.973);
+    font-size: x-large;
+    text-decoration: none;
+    
+}
+
+
+
+.navbar a:hover {
+
+    color: rgb(255, 0, 0);
+
+}
+
+
+.headObrazek {
+
+display: flex;
+justify-content: right;
+
+
+}
+
+.naseSluzby {
+    background-color: black;
+    color: white;
+    padding: 40px;
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
+.procMyContainer {
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.procMyBlock {
+    display: flex;
+    flex-direction: column;
+   text-align: center;
+    padding: 10px;
+}
+
+
+
+
