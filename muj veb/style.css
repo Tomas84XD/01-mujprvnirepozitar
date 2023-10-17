@@ -1,0 +1,23 @@
+.header {
+   background-color: antiquewhite;
+}
+
+.border {
+   border: solid .1px black;
+   
+}
+
+.videa {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.molo {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer {
+    background-color: antiquewhite;
+    margin-top: 50px;
+}
