@@ -1,0 +1,14 @@
+.outer-container {
+    display: block;
+    width: 50%;
+    background-color: aquamarine;
+}
+
+.outer-container:hover {
+    background-color: indigo;
+    color: aliceblue;
+}
+
+.funguj {
+    background-color: rgb(131, 226, 255);
+}
