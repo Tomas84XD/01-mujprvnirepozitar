@@ -1,0 +1,36 @@
+.btnbtn-primary {
+   background-color: aquamarine;
+   color: rgb(0, 0, 0);
+   width: 15%;
+}
+
+.btnbtn-primary:hover {
+    background-color: rgb(247, 68, 181);
+}
+
+.form-control {
+    width: 15%;
+}
+
+.btnbtn-danger {
+    background-color: white;
+    width: 15%;
+}
+
+.btnbtn-danger:hover {
+   background-color: red;
+   
+}
+
+.btnbtn-warning {
+    background-color: white;
+    width: 15%;
+}
+
+.btnbtn-warning:hover {
+    background-color: rgb(27, 176, 27);
+}
+
+.telo {
+    background-color: lightskyblue;
+}
